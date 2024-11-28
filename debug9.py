@@ -22,5 +22,5 @@ elif x == 3:
     print('x is 3')
 elif y == 4:
     print('y is 4')
-else
+else:
     print("x is not 3 and y is not 4")
